@@ -20,6 +20,7 @@ Business objectives and constraints:
 3.We got to suggest connnections which are most likley to be correct and we should try and not miss out any connnections.
 
 Performance metric for supervised learning:
+
 1.Both precision and recall are important, hence F1 score is good choice
 
 2.Confusion matrix
